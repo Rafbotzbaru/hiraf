@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
-global.premium = ['6285822347348']
+global.owner = ['6281946945315','6285646606905','447533021061']
+global.premium = ['6281946945315']
 global.packname = 'Sticker by'
-global.author = 'ArullOfc'
+global.author = 'Raf Botz\n\nwa.me/447533021061'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ *Success Ngab*',
-    admin: '*Fitur Khusus Admin Group Cok*‼️',
-    botAdmin: '*Bot Aj Bukan Admin Cok"!*',
-    owner: '*Lu siapa Cok!Owner gw?*',
-    group: '*Fitur Digunakan Hanya Untuk Group!*',
-    private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
-    bot: '*Fitur Khusus Pengguna Nomor Bot*',
+    success: '*Gagal Tolol, Canda Aoakowka Kontol*',
+    admin: '*Lu Cuman Member Kontol, Jan Sok Nguasai Gc*‼️',
+    botAdmin: '*Bot Bkn Admin Tolol Buta*',
+    owner: '*Lu Cuman User Kontol*',
+    group: '*Fitur Khusus Grup Tolol!*',
+    private: '*Fitur Khusus Chat Pribadi Tolol*',
+    bot: '*Fitur Khusus Bot Tolol*',
     wait: '*Tunggu Sebentar Ya Sayang...*',
-    endLimit: '*Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12*',
+    endLimit: '*Limit Lu Habis Tolol*',
 }
 global.limitawal = {
     premium: "Infinity",
